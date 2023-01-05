@@ -11,3 +11,5 @@ To find the answer you have to do. Fruit name is pretty obvious from an initial 
 
 grep (fruitname) results.txt
 ```
+
+To unzip you need a password (if you do not have it please contact me)

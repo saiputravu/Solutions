@@ -13,3 +13,7 @@ grep (fruitname) results.txt
 ```
 
 To unzip you need a password (if you do not have it please contact me)
+```
+mkdir output;cd output
+unzip solutions
+```
